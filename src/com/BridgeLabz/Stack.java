@@ -74,7 +74,7 @@ public class Stack {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Welcome to Stack and Queue Problem....!!!");
+		System.out.println("Welcome to Stacks and Queues");
 		Stack stack = new Stack();
 
 		System.out.println();
